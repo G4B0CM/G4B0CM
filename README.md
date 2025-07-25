@@ -11,6 +11,8 @@
 </p>
 
 ---
+![Presentation](./Img1.jpeg)
+---
 
 ### 👋 About Me
 
