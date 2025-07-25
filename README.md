@@ -63,11 +63,11 @@ Here are some of the projects I'm most proud of.
 #### 🥇 Cyber Grid - Quantitative Risk Analysis System
 * **Description:** A comprehensive system built on a microservices and event-driven architecture. It performs a quantitative risk analysis based on a web domain and the user's risk appetite, calculating asset values and potential vulnerabilities. The core logic is powered by a **50-page quantitative risk analysis methodology** our team developed.
 * **Link:** *https://github.com/G4B0CM/auth_service*
-* **Tech Stack:** *<p align="left">
+* **Tech Stack:** <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,html,css,postgres,react" />
   </a>
-</p>*
+</p>
 
 #### 🥈 Vulnerability Analysis System
 * **Description:** A full-stack system that provides a quantitative score for a web domain's vulnerabilities using an innovative methodology our team developed.
